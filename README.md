@@ -1,7 +1,7 @@
 ## My Repositories
 
 ### Ruby Gems
-<a href="https://rubygems.org/profiles/arukoh" target="_blank">https://rubygems.org/profiles/arukoh</a>
+<a href="https://rubygems.org/profiles/arukoh" target="_blank">rubygems.org/profiles/arukoh</a>
 
 | Name | Description | GitHub Page |
 |------|-------------|-------------|
@@ -17,4 +17,4 @@
 | Hooker | Endpoint for Web Hook | <a href="https://github.com/arukoh/Hooker" target="_blank">site link</a> |
 
 ### Sample Codes
-<a href="https://github.com/samples-of-arukoh" target="_blank">https://github.com/samples-of-arukoh</a>
+<a href="https://github.com/samples-of-arukoh" target="_blank">github.com/samples-of-arukoh</a>
