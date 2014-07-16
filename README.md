@@ -12,9 +12,10 @@
 
 ### Sinatra Apps
 
-| Name | Description | Repository |
-|------|-------------|-------------|
-| Hooker | Endpoint for Web Hook | <a href="https://github.com/arukoh/Hooker" target="_blank">site link</a> |
+| Name | Description | Repository | WebSite |
+|------|-------------|------------|---------|
+| bigwaf | Badge-like ImageSVG Generator With Any Filter | <a href="https://github.com/arukoh/bigwaf" target="_blank">site link</a> |<a href="http://bigwaf.herokuapp.com/" target="_blank">site link</a> |
+| Hooker | Endpoint for Web Hook | <a href="https://github.com/arukoh/Hooker" target="_blank">site link</a> | - |
 
 ### Sample Codes
 <a href="https://github.com/samples-of-arukoh" target="_blank">github.com/samples-of-arukoh</a>
