@@ -10,7 +10,7 @@
 | orm_adapter-simple_record | ORM adapter for AWS SimpleDB | <a href="http://arukoh.github.io/orm_adapter-simple_record" target="_blank">site link</a> |
 | orm_adapter-dynamoid | ORM adapter for AWS DynamoDB | <a href="http://arukoh.github.io/orm_adapter-dynamoid" target="_blank">site link</a> |
 
-### Sinatra Apps
+### Web Apps
 
 | Name | Description | Repository | WebSite |
 |------|-------------|------------|---------|
