@@ -9,6 +9,7 @@
 | signauth  | The signature authentication library | <a href="http://arukoh.github.io/signauth" target="_blank">site link</a> |
 | orm_adapter-simple_record | ORM adapter for AWS SimpleDB | <a href="http://arukoh.github.io/orm_adapter-simple_record" target="_blank">site link</a> |
 | orm_adapter-dynamoid | ORM adapter for AWS DynamoDB | <a href="http://arukoh.github.io/orm_adapter-dynamoid" target="_blank">site link</a> |
+| thjalfi | Thhjalfi is skeleton generator of CLI gem use Thor | <a href="http://arukoh.github.io/thjalfi" target="_blank">site link</a> |
 
 ### Web Apps
 
